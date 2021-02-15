@@ -1,7 +1,7 @@
 # Treinamento de git e github
 
 <h1 align="center">
-  <img src="teaching.png" alt="Teaching" width= "500px">
+  <img src="teaching.png" alt="Teaching">
 </h1>
 
 ### Olá futuros visionários :green_heart:, aqui vocês encontrarão todas as informações necessárias para aprendermos juntos o que é e como usar git e github.
