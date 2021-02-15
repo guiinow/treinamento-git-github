@@ -1,5 +1,9 @@
 # Treinamento de git e github
 
+<h1 align="center">
+  <img src="teaching.sgv" alt="Teaching">
+</h1>
+
 ### Olá futuros visionários :green_heart:, aqui vocês encontrarão todas as informações necessárias para aprendermos juntos o que é e como usar git e github.
 ---
 Para que estejamos num mesmo nível, é de *extrema importância* que todes leiam [esse post](https://guiinow.medium.com/git-e-github-o-que-s%C3%A3o-e-como-usar-b938d682df6b) no medium, o tempo de leitura é de menos que 5 minutos.
