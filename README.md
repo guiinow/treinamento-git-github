@@ -31,12 +31,13 @@ Para trabalhar com git e github você vai precisar das seguintes ferramentas:
 
 5. Principais comandos
 - git init
+- git clone
+- git fork
 - git add
 - git status
 - git commit
 - git push
 - git pull
-- git clone
 - git status
 
 
