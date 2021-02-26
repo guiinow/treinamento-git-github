@@ -16,7 +16,7 @@ Para trabalhar com git e github você vai precisar das seguintes ferramentas:
 3. Baixar o editor de código padrão da Visão, o [VS Code](https://code.visualstudio.com/).
 
 # 2. Conceitos principais
-1. O que é e pra que serve git
+1. O que é e pra que serve git (Qual problema ele resolve)
 2. O que é e pra que serve GitHub
 # 3. Mãos na massa
 1. O comando `git config`
