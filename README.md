@@ -15,6 +15,7 @@ Para trabalhar com git e github você vai precisar das seguintes ferramentas:
 2. Criar uma conta, se não tiver, na maior rede social para desenvolvedores do mundo, o [GitHub](http://github.com/).
 3. Baixar o editor de código padrão da Visão, o [VS Code](https://code.visualstudio.com/).
 
-
+---
+To the world: issues and pull request are very welcome. Just keep in mind that theses steps are intended for absolute starters. 
 <!-- # Bônus
 Extensão do vscode --!>
